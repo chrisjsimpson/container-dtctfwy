@@ -1,3 +1,15 @@
+# v0.0.3 (Sun Sep 25 2022)
+
+#### ⚠️ Pushed to `main`
+
+- added missing tasks.py ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.2 (Sun Sep 25 2022)
 
 #### ⚠️ Pushed to `main`
