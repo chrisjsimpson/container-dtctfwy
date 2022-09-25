@@ -4,6 +4,8 @@ ENV PYTHONUNBUFFERED=1
 WORKDIR /usr/src/app
 COPY requirements.txt /usr/src/app/
 RUN pip install -r requirements.txt
+# Install whisper
+RUN pip install -e .
 RUN apt update && apt install -y ffmpeg
 COPY ./web /usr/src/app/
 COPY ./entrypoint.sh /
