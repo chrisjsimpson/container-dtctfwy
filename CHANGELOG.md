@@ -1,3 +1,15 @@
+# v0.0.8 (Sun Sep 25 2022)
+
+#### ⚠️ Pushed to `main`
+
+- update readme ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.7 (Sun Sep 25 2022)
 
 #### ⚠️ Pushed to `main`
