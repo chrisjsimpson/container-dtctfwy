@@ -1,3 +1,15 @@
+# v0.0.5 (Sun Sep 25 2022)
+
+#### ⚠️ Pushed to `main`
+
+- install whisper ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.4 (Sun Sep 25 2022)
 
 #### ⚠️ Pushed to `main`
