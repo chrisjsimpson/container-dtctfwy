@@ -1,29 +1,18 @@
-# Go forth and build! 🚀
+# AI Audio to Text Transcription 🦾🤖
 
-By now, you have deployed a container, and in moments, you can visit your app
-live!
 
-> Be patient! In ~3 mins your app is live, at your [app url](https://container-dtctfwy.containers.anotherwebservice.com/). It even has a free SSL/TLS certificate 🔒 you're welcome!
+[app url](https://container-dtctfwy.containers.anotherwebservice.com/)
 
-You probably want to add code to your app. Good news, your app is ready right now to start coding, which is simple:
+This app uses the [OpenAI Whisper research](https://openai.com/blog/whisper/) to demonstrate
+an automatic audo -> text transcription service.
 
-1. Edit your code
-2. Commit your code
-3. Push your code `git push origin main`
 
-Your app will be automatically re-deployed with the latest code at: https://container-dtctfwy.containers.anotherwebservice.com/
+# Run the code locally
 
-> You app is deployed already and is working software. Gone are the days of spending weeks coding and then *another* week going to production. No. Go to production *early* and respond to change.
-
-# How to code your app locally 💻 (on your laptop)
-
-> Step 0: You need to download your repo to your computer:
 
 ```
 git clone git@github.com:chrisjsimpson/container-dtctfwy.git
 ```
-
-> See an error? You might need to setup permissions [here's a guide how to setup repo clone permissions](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 1. [Install docker](https://docs.docker.com/get-docker/)
 
@@ -41,14 +30,3 @@ docker-compose build
 # or 
 docker-compose up --build
 ```
-
-# Which framework did you choose?
-
-Need some help to get started?
-
-- [**Ruby** quickstart guide](https://github.com/KarmaComputing/rails-quickstart)
-
-
-## Questions
-
-- How was this built? [All code is here](https://github.com/KarmaComputing/container-hosting)
