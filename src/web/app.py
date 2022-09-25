@@ -9,7 +9,7 @@ from logger import log
 
 load_dotenv(verbose=True)
 
-UPLOAD_FOLDER = './uploads/'
+UPLOAD_FOLDER = '/usr/src/app/uploads/'
 ALLOWED_EXTENSIONS = {'mp3', 'wav', 'flac'}
 
 DB_USER = os.getenv("DB_USER", None)
@@ -75,7 +75,7 @@ def upload_complete():
 @background_task
 def background_transcribe(app = None, filename = None):
     print(f"Running bg_transcribe on {filename}")
-    subprocess.run(f"whisper uploads/{filename} --model medium", shell=True)
+    subprocess.run(f"whisper /usr/src/app/uploads/{filename} --model medium", shell=True)
 
 
 @app.route('/transcribe/', methods=['GET'])
