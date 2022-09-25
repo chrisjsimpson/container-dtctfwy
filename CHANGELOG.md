@@ -1,3 +1,15 @@
+# v0.0.6 (Sun Sep 25 2022)
+
+#### ⚠️ Pushed to `main`
+
+- fix order of whisper install ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.5 (Sun Sep 25 2022)
 
 #### ⚠️ Pushed to `main`
