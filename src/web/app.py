@@ -86,7 +86,7 @@ def background_transcribe(app=None, filename=None):
 def background_translate(app=None, filename=None):
     print(f"Running background_translate on {filename}")
     subprocess.run(
-        f'subprocess.run(f"whisper {UPLOAD_FOLDER}{filename} --model medium --language German --task translate")'
+        f"whisper {UPLOAD_FOLDER}{filename} --model medium --language German --task translate"
     )
 
 
