@@ -1,3 +1,15 @@
+# v0.0.9 (Mon Oct 10 2022)
+
+#### 🐛 Bug Fix
+
+- Fix #1 translation (German) [#2](https://github.com/chrisjsimpson/container-dtctfwy/pull/2) ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.8 (Sun Sep 25 2022)
 
 #### ⚠️ Pushed to `main`
