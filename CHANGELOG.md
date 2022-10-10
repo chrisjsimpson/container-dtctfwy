@@ -1,3 +1,15 @@
+# v0.0.11 (Mon Oct 10 2022)
+
+#### ⚠️ Pushed to `main`
+
+- add title tag ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.10 (Mon Oct 10 2022)
 
 #### ⚠️ Pushed to `main`
