@@ -1,3 +1,15 @@
+# v0.0.13 (Mon Oct 10 2022)
+
+#### ⚠️ Pushed to `main`
+
+- #1 fix background_translate ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.12 (Mon Oct 10 2022)
 
 #### ⚠️ Pushed to `main`
