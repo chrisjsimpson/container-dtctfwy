@@ -79,14 +79,14 @@ def upload_complete():
 @background_task
 def background_transcribe(app=None, filename=None):
     print(f"Running bg_transcribe on {filename}")
-    subprocess.run(f"whisper {UPLOAD_FOLDER}/{filename} --model medium", shell=True)
+    subprocess.run(f"whisper {UPLOAD_FOLDER}{filename} --model medium", shell=True)
 
 
 @background_task
 def background_translate(app=None, filename=None):
     print(f"Running background_translate on {filename}")
     subprocess.run(
-        f'subprocess.run(f"whisper {UPLOAD_FOLDER}/{filename} --model medium --language German --task translate")'
+        f'subprocess.run(f"whisper {UPLOAD_FOLDER}{filename} --model medium --language German --task translate")'
     )
 
 
