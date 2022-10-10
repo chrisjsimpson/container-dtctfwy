@@ -53,7 +53,7 @@ def upload_file():
         return redirect(url_for("upload_complete", name=filename))
     return """
     <!doctype html>
-    <title>Upload new File</title>
+    <title>AI Voice to text transcription service & translation | VTT Format</title>
     <h1>AI Voice to text transcription &amp; translation</h1>
     <p>Simply upload your audio (mp3, wav or flac format), wait, and we'll email you the ai-powered transcription.</p>
     <p>Please be patient whilst your audio uploads, it is uploading there is simply no progress bar yet.</p>
