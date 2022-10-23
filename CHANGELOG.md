@@ -1,3 +1,15 @@
+# v0.0.15 (Sun Oct 23 2022)
+
+#### 🐛 Bug Fix
+
+- Fix #3 mobile friendly [#4](https://github.com/chrisjsimpson/container-dtctfwy/pull/4) ([@chrisjsimpson](https://github.com/chrisjsimpson))
+
+#### Authors: 1
+
+- [@chrisjsimpson](https://github.com/chrisjsimpson)
+
+---
+
 # v0.0.14 (Mon Oct 10 2022)
 
 #### ⚠️ Pushed to `main`
